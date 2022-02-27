@@ -80,3 +80,5 @@ console.log(myTable.get_item("firstName"));
 console.log(myTable.get_item("lastName"));
 console.log(myTable.get_item("age"));
 console.log(myTable.get_item("birthday"));
+
+// 출처: Ben Award 유튜브 (https://youtu.be/UOxTMOCTEZk)
