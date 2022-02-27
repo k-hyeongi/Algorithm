@@ -4,8 +4,6 @@ function hashStringToInt(str, tableSize) {
 
     for (let i=0; i<str.length; i++) {
         hash = (7 * hash * str.charCodeAt(i)) % tableSize;
-        console.log(7*hash*'firstName'.charCodeAt(i) % tableSize);
-        console.log(7*hash*'birthday'.charCodeAt(i) % tableSize)
 
         // charCodeAt() 메서드는 주어진 인덱스에 대한 UTF-16 코드를 나타내는 0부터 65535 사이의 정수를 반환한다.
     }
