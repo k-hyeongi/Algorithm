@@ -1,2 +1,2 @@
 # Algorithm
-various algorithm codes
+various algorithm python codes
